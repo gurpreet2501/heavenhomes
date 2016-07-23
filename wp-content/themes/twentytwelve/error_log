@@ -1,0 +1,2 @@
+[30-Apr-2016 20:24:35 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/thenexte/public_html/theheavenhomes/wp-content/themes/twentytwelve/404.php on line 10
+[09-Jul-2016 07:50:00 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/thenexte/public_html/theheavenhomes/wp-content/themes/twentytwelve/404.php on line 10

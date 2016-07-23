@@ -1,0 +1,72 @@
+[10-Jan-2015 03:55:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/page.php on line 1
+[10-Jan-2015 03:55:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/page.php on line 1
+[10-Jan-2015 04:36:46 UTC] PHP Parse error:  syntax error, unexpected ''af' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 36
+[10-Jan-2015 04:49:45 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_styles() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 676
+[10-Jan-2015 04:49:51 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_styles() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 676
+[10-Jan-2015 04:50:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 569
+[11-Jan-2015 05:32:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 96
+[11-Jan-2015 05:32:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 96
+[11-Jan-2015 05:42:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/content.php on line 32
+[11-Jan-2015 05:59:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/content.php on line 30
+[14-Jan-2015 15:57:02 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 15
+[14-Jan-2015 16:14:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:14:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:19:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:20:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:20:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:21:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:21:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:21:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 19
+[14-Jan-2015 16:21:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:21:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:21:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:23:31 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 23
+[14-Jan-2015 16:23:34 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 23
+[14-Jan-2015 16:29:59 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:30:02 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:30:05 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:30:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:30:22 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:31:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 20
+[14-Jan-2015 16:33:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 24
+[14-Jan-2015 16:33:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 24
+[14-Jan-2015 16:37:55 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 26
+[14-Jan-2015 16:37:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 26
+[14-Jan-2015 16:38:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 26
+[14-Jan-2015 16:38:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 26
+[14-Jan-2015 16:38:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 26
+[14-Jan-2015 16:38:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 26
+[20-Jan-2015 08:45:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:45:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:45:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:46:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:46:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:46:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:47:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:47:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:47:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:48:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:49:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:49:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 08:49:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 97
+[20-Jan-2015 09:14:35 UTC] PHP Fatal error:  Call to undefined function bavotasan_theme_options() in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/header.php on line 37
+[20-Jan-2015 09:14:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 529
+[20-Jan-2015 09:28:00 UTC] PHP Parse error:  syntax error, unexpected ''af' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 36
+[20-Jan-2015 09:28:02 UTC] PHP Parse error:  syntax error, unexpected ''af' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/functions.php on line 36
+[24-Jan-2015 05:04:28 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 24
+[24-Jan-2015 05:09:48 UTC] PHP Notice:  Undefined variable: filter_posts in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 29
+[24-Jan-2015 05:10:10 UTC] PHP Notice:  Undefined variable: filter_posts in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 29
+[24-Jan-2015 05:12:10 UTC] PHP Notice:  Undefined variable: filter_posts in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 29
+[24-Jan-2015 05:12:25 UTC] PHP Notice:  Undefined variable: filter_posts in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 29
+[24-Jan-2015 05:16:33 UTC] PHP Notice:  Undefined variable: filter_posts in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/google_maps.php on line 29
+[25-Jan-2015 06:14:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 156
+[25-Jan-2015 06:14:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 156
+[25-Jan-2015 06:18:57 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 51
+[25-Jan-2015 06:19:01 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 51
+[25-Jan-2015 06:29:55 UTC] PHP Parse error:  syntax error, unexpected '$posts_array' (T_VARIABLE), expecting '(' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 71
+[25-Jan-2015 06:30:39 UTC] PHP Parse error:  syntax error, unexpected '$posts_array' (T_VARIABLE), expecting '(' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 70
+[25-Jan-2015 06:30:41 UTC] PHP Parse error:  syntax error, unexpected '$posts_array' (T_VARIABLE), expecting '(' in /home8/dreamhp8/public_html/theheavenhomes/wp-content/themes/arcade-basic/front-page.php on line 70
+[27-Jul-2015 17:33:37 UTC] Can't connect to http://wptypes.s3.amazonaws.com/toolset-products.json
+
+[27-Jul-2015 17:33:53 UTC] Can't connect to http://wptypes.s3.amazonaws.com/toolset-products.json
+

@@ -1,0 +1,24 @@
+== Change log ==
+
+= 1.0.3 - July 04 2016 =
+* Add: Link in related post title
+* Add: Upgrade to pro link
+* Fix: Bug fixes in breadcrumbs
+
+= 1.0.2 - June 14 2016 =
+* Add: New theme tags
+* Fix: Minor bug fixes
+* Fix: CSS fixes
+
+= 1.0.1 - Apr 20 2016 =
+* Add: Support Custom Logo in WP >= 4.5
+* Check: Compatibility with WP 4.5
+* Fix: Minor bug fixes
+* Update: Minimum required WP 4.3
+
+= 1.0.0 - Apr 5 2016 =
+* Update: Extend theme options
+* Fix: CSS tweaks
+
+= 0.0.1 - Dec 24 2015 =
+* Initial release

@@ -1,0 +1,175 @@
+
+.woocommerce .page-title{
+ 	font-family: 'Chewy', cursive;
+}
+.woocommerce .image-anchor > h3{
+ 	font-family: 'Chewy', cursive;
+}
+.copyright.col-lg-12.text-center span{
+
+ 	font-family: 'Chewy', cursive;
+	color:#fff;
+}
+
+.header-img{
+ left:0 !important;
+}
+
+.contact_no {
+  color: #fff !important;
+}
+#site-meta > h1 {
+  color: #fff !important;
+  font-size: 80px;
+  text-align: center;
+	font-family: 'Chewy', cursive;
+}
+#site-description{
+font-family: 'Chewy', cursive;
+}
+h1.entry-title{
+font-family: 'Chewy', cursive;
+}
+#more-site.btn.btn-default.btn-lg{
+ font-family: 'Chewy', cursive;
+}
+#site-meta > a h1{
+ color:#fff;
+ font-family: 'Chewy', cursive;
+ text-decoration:none;
+}
+.wpcf7-form-control{
+ width:100%;
+}
+
+.attachment-shop_thumbnail{
+ border-radius:50%;
+ padding:5px;
+}
+a{
+ text-decoration:none !important;
+}
+.form-row.form-row-first > input{
+ width:100% !important; 
+}
+.shop_attributes p{
+ margin-left:7px !important;
+}
+.contact_no a{
+ color:#fff !important;
+}
+.page-header.clearfix h1{
+ display:none;
+}
+
+.home .page-header{
+ display:none;
+}
+.maps_page_top_bar {
+  background: none repeat scroll 0 0 #333;
+  box-shadow: 3px 6px 20px #000;
+  height: 85px;
+  position: relative;
+  z-index: 1;
+}
+.maps_page_top_bar .text-center a {
+  color: #fff;
+  font-size: 24px;
+  position: relative;
+  text-decoration: none;
+  top: 14px;
+  font-family: 'Chewy', cursive;
+}
+.collapse.navbar-collapse {
+  box-shadow: 0 3px 30px #d3eecb;
+}
+.gradient {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+  height: 100%;
+	top:0;
+  position: absolute;
+  width: 100%;
+}
+
+.products li a img {
+  border: 1px solid #cfcfcf;
+  border-radius: 11px;
+  padding: 3px;
+}
+.social-icons {
+  position: fixed;
+  top: 50%;
+	z-index:5
+}
+.fa-facebook {
+  background: none repeat scroll 0 0 #385591;
+  color: #fff;
+  font-size: 25px;
+  padding: 10px 14px 10px 13px;
+  transition: padding 0.4s linear 0s;
+}
+.fa-facebook:hover {
+  padding-left: 31px;
+  padding-right: 22px;
+}
+.fa-google-plus {
+  background: none repeat scroll 0 0 #DD4B39;
+  color: #fff;
+  font-size: 21px;
+  padding: 9px;
+	transition: padding 0.4s linear 0s;
+}
+.fa-google-plus:hover {
+  padding-left: 28px;
+  padding-right: 17px;
+}
+
+.fa-twitter {
+  background: none repeat scroll 0 0 #5EA9DD;
+  color: #fff;
+  font-size: 21px;
+  padding: 9px;
+	transition: padding 0.4s linear 0s;
+}
+.fa-twitter:hover {
+  padding-left: 28px;
+  padding-right: 17px;
+}
+.entry-title-agsoft a {
+  color: #333;
+  font-family: "Chewy",cursive;
+  font-size: 29px;
+}
+.sp-30{
+margin-top:30px;
+}
+.featured-image-agsoft img {
+  border: 1px solid #cfcfcf;
+  border-radius: 5px;
+  padding: 5px;
+}
+.image-anchor > img {
+  left: -2px;
+  position: relative;
+  top: 6px;
+}
+
+@media only screen
+and (max-width:640px){ 
+
+ #site-meta > a h1 {
+  font-size: 38px;
+ }
+	 .maps_page_top_bar {
+		height: 75px;
+	}
+}
+@media only screen
+and (max-width:768px){
+	body.basic {
+   font-size: 15px;
+  }
+	.social-icons{
+	 display:none;
+	}
+}
